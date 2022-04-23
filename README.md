@@ -9,11 +9,11 @@ RESPOSTA: [Solucao-01](https://github.com/rayanscs/b-health/tree/main/Solucao-01
 2) Existe um front-end que o cliente final pode agendar exames, realizar o pagamento e consultar os dados do hospital. Da forma que foi construída, cada consulta dos exames abre uma conexão com o banco e nosso banco permite até 100 conexões simultâneas. Com novos hospitais sendo integrados, hoje já tem mais de 1000 usuários acessando o site ao mesmo tempo, com muitas reclamações de performance e erros de consulta. 
    - Qual solução você daria para que suporte o aumento contínuo de usuários simultâneos, sem envolver alguma alteração de hardware (servidores e bancos)? Descreva a solução e a arquitetura que você faria.
 
-RESPOSTA: [Solucao-01](https://github.com/rayanscs/b-health/tree/main/Solucao-02)
+RESPOSTA: [Solucao-02](https://github.com/rayanscs/b-health/tree/main/Solucao-02)
 
 3) Pensando nas soluções propostas dos itens anteriores, quais boas práticas você aplicaria no processo de entrega em produção, pensando nos conceitos de disponibilidade, qualidade e segurança?
 
-RESPOSTA: [Solucao-01](https://github.com/rayanscs/b-health/tree/main/Solucao-03)
+RESPOSTA: [Solucao-03](https://github.com/rayanscs/b-health/tree/main/Solucao-03)
 
 
 ## Algumas informações extras:
