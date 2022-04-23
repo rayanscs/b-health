@@ -14,6 +14,7 @@ A arquitetura utilizada:
 
 Solução 01.1
 - Toda infra/sistemas são mantidos pela empresa.
+- Como temos duas formas de frontend, foram incluidas o bff e frontend web dentro da empresa. As duas são expostas ao gtw a serem consumidas, porém, suas finalidades são diferentes. O BFF é consumido pelo mobile e a aplicação Web acessado pelos browsers.
 
 Desenho
 <img src="./Solucao-01-1-b-health.jpeg" width="1024"/>
