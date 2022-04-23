@@ -15,13 +15,13 @@ A arquitetura utilizada:
 Solução 01.1
 - Toda infra/sistemas são mantidos pela empresa.
 
-![Desenho](https://github.com/rayanscs/b-health/raw/main/Solucao-01/Solucao-01-1-b-health.jpeg|alt=Solucao_01_1)
+![Desenho](https://github.com/rayanscs/b-health/blob/main/Solucao-01/img/Solucao-01-1-b-health.jpeg)
 
 
 Solução 01.2
 - Toda infra/sistemas são mantidos na AWS.
 
-![Desenho](https://github.com/rayanscs/b-health/raw/main/Solucao-01/Solucao-01-2-b-health.jpeg|alt=Solucao_01_2)
+![Desenho](https://github.com/rayanscs/b-health/blob/main/Solucao-01/img/Solucao-01-2-b-health.jpeg)
 
 Geral
 - APIs desenvolvidos com modelagem de software em Domain Driven Design.
