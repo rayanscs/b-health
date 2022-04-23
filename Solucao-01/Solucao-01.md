@@ -16,13 +16,13 @@ Solução 01.1
 - Toda infra/sistemas são mantidos pela empresa.
 
 Desenho:
-[[https://github.com/rayanscs/b-health/blob/main/Solucao-01/Solucao-01/Solucao-01-1-b-health.jpeg|alt=Solucao_01_1]]
+[[https://github.com/rayanscs/b-health/blob/main/Solucao-01/Solucao-01-1-b-health.jpeg|alt=Solucao_01_1]]
 
 Solução 01.2
 - Toda infra/sistemas são mantidos na AWS.
 
 Desenho:
-[[https://github.com/rayanscs/b-health/blob/main/Solucao-01/Solucao-01/Solucao-01-2-b-health.jpeg|alt=Solucao_01_2]]
+[[https://github.com/rayanscs/b-health/blob/main/Solucao-01/Solucao-01-2-b-health.jpeg|alt=Solucao_01_2]]
 
 Geral
 - APIs desenvolvidos com modelagem de software em Domain Driven Design.
