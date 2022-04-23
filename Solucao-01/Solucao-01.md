@@ -1,4 +1,4 @@
-Solução 01
+**Solução 01**
 
 Foram desenvolvidos duas soluções baseadas na mesma arquitetura, porém com implementações diferentes.
 
@@ -15,9 +15,16 @@ A arquitetura utilizada:
 Solução 01.1
 - Toda infra/sistemas são mantidos pela empresa.
 
+Desenho:
+[[https://github.com/rayanscs/b-health/blob/main/Solucao-01/Solucao-01/Solucao-01-1-b-health.jpeg|alt=Solucao_01_1]]
+
 Solução 01.2
 - Toda infra/sistemas são mantidos na AWS.
 
+Desenho:
+[[https://github.com/rayanscs/b-health/blob/main/Solucao-01/Solucao-01/Solucao-01-2-b-health.jpeg|alt=Solucao_01_2]]
+
 Geral
 - APIs desenvolvidos com modelagem de software em Domain Driven Design.
-- Fronts desenvolvidos em arquitetura MVVM e modulação de cosumo de serviços.
+- Fronts desenvolvidos em arquitetura MVVM e modulação de consumo de serviços.
+

@@ -1,4 +1,4 @@
-Solução 02
+**Solução 02**
 
 - Projeto de frontend apartado do backend.
 - Desenvolver API para o agendamento de exames, pagamentos, consultas dos dados do hospital. Com isso, o front consome suas rotas.
@@ -8,3 +8,6 @@ Solução 02
 - Criação de índices em banco de dados caso necessário.
 - Para CRUDs NoSQL, otimização de estrutura json caso necessário (genérica adaptativa).
 - Aplicação de cache no Redis.
+
+Desenho:
+[[https://github.com/rayanscs/b-health/blob/main/Solucao-02/Solucao-02-b-health.jpeg|alt=Solucao_02]]
