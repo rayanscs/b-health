@@ -9,4 +9,4 @@
 - Para CRUDs NoSQL, otimização de estrutura json caso necessário (genérica adaptativa).
 - Aplicação de cache no Redis.
 
-![Desenho](https://github.com/rayanscs/b-health/blob/main/Solucao-02/Solucao-02-b-health.jpeg|alt=Solucao_02)
+![Desenho](https://github.com/rayanscs/b-health/raw/main/Solucao-02/Solucao-02-b-health.jpeg|alt=Solucao_02)
