@@ -4,7 +4,7 @@ Boas práticas no processo de entrega em produção, pensando nos conceitos de disp
 
 
 Ponto DISPONIBILIDADE:
-- Servidores das aplicações com redundância e configurações de balanceamento de cargas.
+- Servidores das aplicações com redundância e configurações de balanceamento de cargas (F5 por exemplo).
 - Utilização da AWS ou qualquer outra solução em nuvem.
 - Utilização de Docker para conteinerização.
 - Persistencia de dados com boas prtáticas de Disaster Recovery.
